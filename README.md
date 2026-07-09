@@ -1,16 +1,19 @@
 # JavaScript Exercism Practice
 
-This repository is used to store my JavaScript practice exercises from [Exercism](https://exercism.org/).
+This repository is used to store my JavaScript practice exercises from [Exercism](https://exercism.org/) and side practice projects.
 
 Instead of using the default Exercism folder structure, I organize all downloaded JavaScript exercises inside the `exercises/` folder.
 
 ## Folder Structure
 
 ```text
-JavaScript/
+JavaScript/`
 ├── exercises/
 │   ├── hello-world/
 │   ├── lasagna/
+│   └── ...
+├── practice-projects/
+│   ├── rock-paper-scissor/
 │   └── ...
 ├── .gitignore
 └── README.md
