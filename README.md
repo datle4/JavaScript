@@ -24,6 +24,7 @@ JavaScript/`
 The purpose of this repository is to:
 
 - Practice JavaScript fundamentals
+- Practice projects
 - Solve Exercism JavaScript exercises
 - Track my learning progress with Git and GitHub
 - Keep all exercises organized in one place
