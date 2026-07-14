@@ -65,7 +65,7 @@ Run tests:
 pnpm test
 ```
 
-## Submitting an Exercise
+## Submitting Exercise
 
 After solving an exercise, submit the solution file:
 
